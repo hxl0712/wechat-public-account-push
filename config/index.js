@@ -217,7 +217,7 @@ export const config = {
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
     {"keyword": "ex_day", date: "2022-09-10"},
-    // 你可以不断按格式往下增加
+    // 你可以不断按格式往下增
     // ...
   ],
 
